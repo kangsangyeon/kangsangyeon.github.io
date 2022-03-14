@@ -1,6 +1,7 @@
-# Changing Environment Variables
-
 ---
+layout: post
+title: [MSDN] Changing Environment Variables
+date: 2022-03-14 23:28:00 +0900
 categories: [Win32]
 tags: [MSDN, Win32]
 ---
