@@ -5,7 +5,6 @@ date: 2022-03-17 18:24:00 +0900
 categories: [DXGI]
 tags: [MSDN, DirectX, DXGI]
 ---
-
 [DXGI_SWAP_CHAIN_DESC (dxgi.h) - Win32 apps](https://docs.microsoft.com/en-us/windows/win32/api/dxgi/ns-dxgi-dxgi_swap_chain_desc)
 
 swap chain을 기술하는 구조체입니다.
@@ -37,7 +36,7 @@ back buffer 디스플레이 모드를 기술하는 구조체입니다.
 
 Type: **DXGI_SAMPLE_DESC**
 
-멀티샘플링 매개변수들을 기술하는 구조체입니다.]\
+멀티샘플링 매개변수들을 기술하는 구조체입니다.
 
 `BufferUsage`
 
