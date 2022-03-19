@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Using SSE/SSE2 for optimization"
+date: 2022-03-19 23:19:00 +0900
+categories: [cpp]
+tags: [CodeProject, cpp]
+---
 [Using SSE/SSE2 for optimization](https://www.codeproject.com/Articles/8440/Using-SSE-SSE2-for-optimization)
 
 최적화 방법 중 하나에 대한 초보자용 소개입니다.
