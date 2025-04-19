@@ -15,3 +15,15 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+
+# vscode
+# 예외적으로 .vscode 디렉토리는 무시하지 않음
+!.vscode/
+# .vscode 내의 모든 파일 무시
+.vscode/*
+# 원하는 파일만 다시 추적하도록 예외 처리
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
