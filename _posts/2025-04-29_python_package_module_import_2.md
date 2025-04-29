@@ -18,7 +18,7 @@ Python 프로젝트를 구성할 때 module과 package를 import하는 방법은
 
 이 글에서는 다음과 같은 프로젝트 구조를 가정합니다.
 
-```
+```plaintext
 project/
 ├── main.py
 ├── app.py
@@ -78,6 +78,7 @@ from utils.math_utils import (
 | 사용을 지양해야 하는 경우 | `from module import *` | 네임스페이스 오염 위험, 유지보수성 저하 |
 
 **주의**:
+
 - `from module import *` 방식은 사용을 지양합니다.
 - 필요한 이름만 명확하게 import하여 코드 가독성과 명확성을 유지합니다.
 

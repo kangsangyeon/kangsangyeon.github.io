@@ -18,7 +18,7 @@ tags: [git, gitignore]
 
 - **작성 방법 예시**
 
-  ```
+  ```plaintext
   logs/
   temp/
   ```
@@ -33,7 +33,7 @@ tags: [git, gitignore]
 
 - **예시**
 
-  ```
+  ```plaintext
   # 잘못된 방식 (하위 파일 예외가 적용되지 않음)
   logs/
   !logs/important.log
@@ -49,7 +49,7 @@ tags: [git, gitignore]
 
 - **작성 방법 예시**
 
-  ```
+  ```plaintext
   *.log
   *.tmp
   .DS_Store
