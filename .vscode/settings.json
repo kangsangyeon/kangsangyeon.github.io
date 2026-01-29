@@ -1,4 +1,7 @@
 {
-    "pasteImage.basePath": "${currentFileDir}",
-    "pasteImage.path": "${projectRoot}/assets/img"
+  "pasteImage.basePath": "${currentFileDir}",
+  "pasteImage.path": "${projectRoot}/assets/img",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
 }
